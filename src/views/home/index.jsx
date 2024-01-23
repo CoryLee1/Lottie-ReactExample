@@ -1,14 +1,16 @@
 import { useEffect, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import Lottie from "lottie-web";
-import starAnimationData from 'D:\\portfolio\\app\\src\\assets\\star.json';
-import buttonAnimationData from "D:\\portfolio\\app\\src\\assets\\button (1).json"
-import barAnimationData from "D:\\portfolio\\app\\src\\assets\\bar (1).json"
-import micAnimationData from "D:\\portfolio\\app\\src\\assets\\mic.json"
-import loadAnimationData from "D:\\portfolio\\app\\src\\assets\\loading (1).json"
-import textAnimationData from "D:\\portfolio\\app\\src\\assets\\creativity_ani.json"
-import chat1AnimationData from "D:\\portfolio\\app\\src\\assets\\chat1.json"
-import chat2AnimationData from "D:\\portfolio\\app\\src\\assets\\chat2.json"
+import starAnimationData from '../../assets/star.json';
+import buttonAnimationData from '../../assets/button (1).json';
+import barAnimationData from '../../assets/bar (1).json';
+import micAnimationData from '../../assets/mic.json';
+import loadAnimationData from '../../assets/loading (1).json';
+import textAnimationData from '../../assets/creativity_ani.json';
+import chat1AnimationData from '../../assets/chat1.json';
+import chat2AnimationData from '../../assets/chat2.json';
+
+
 
 
 export default function Boke() {
